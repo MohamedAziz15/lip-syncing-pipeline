@@ -79,6 +79,8 @@ Fine-Tuning:
 
 **Fine-Tuning:**
  Instead of fine-tuning the model, adjusted parameters like bbox_shift to control mouth openness, resulting in better synchronization.
+ python -m scripts.inference --inference_config configs/inference/test.yaml --bbox_shift -7
+
 '''
 !python -m scripts.inference --inference_config configs/inference/test.yaml --bbox_shift -7
 ''' 
@@ -92,20 +94,14 @@ Fine-Tuning:
 ([13_K_96_A.mp4](https://github.com/MohamedAziz15/Lip-Sync/blob/main/13_K_96_A.mp4))
 
 
-
-
-
-
 ---
-**Drive** link : https://drive.google.com/drive/folders/1GyP__si2oQveB7Ehfyjwabph3DUUc47g?usp=sharing
-
-For more details, refer to the documentation provided in the repository. If you encounter any issues or have questions, feel free to open an issue or contact the maintainer.
-
-
-
 
 
 ### Reference
 -  **MuseTalk** :https://github.com/TMElyralab/MuseTalk/tree/main?tab=readme-ov-file
 -  **MuseV**    : https://github.com/TMElyralab/MuseV/tree/main
+- **([Drive](https://drive.google.com/drive/folders/1GyP__si2oQveB7Ehfyjwabph3DUUc47g?usp=sharing))**
+For more details, refer to the documentation provided in the repository. If you encounter any issues or have questions, feel free to open an issue or contact the maintainer.
+
+
 
