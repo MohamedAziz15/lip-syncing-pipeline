@@ -10,7 +10,8 @@
 1. supports real-time inference with 30fps+ on an NVIDIA Tesla V100.
 1. supports modification of the center point of the face region proposes, which **SIGNIFICANTLY** affects generation results. 
 1. checkpoint available trained on the HDTF dataset.
-[MuseTalk-Doc]([url](https://github.com/TMElyralab/MuseTalk))
+   
+[MuseTalk-Doc](https://github.com/TMElyralab/MuseTalk))
 
 ### Getting Started
 We provide a detailed tutorial about the installation and the basic usage of MuseTalk for new users:
