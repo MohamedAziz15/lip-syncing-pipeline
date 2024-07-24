@@ -81,41 +81,15 @@ Finally, these weights should be organized in `models` as follows:
 
 ## Results
 - Generated a high-quality video with excellent synchronization of lip movements with the audio.
+([13_K_96_E.mp4](https://github.com/MohamedAziz15/Lip-Sync/blob/main/13_K_96_E.mp4))
+ 
+([13_K_10_S.mp4](https://github.com/MohamedAziz15/Lip-Sync/blob/main/13_K_10_S.mp4))  
 
-## Source Code
-- The lip-syncing pipeline was implemented in a Colab notebook.
-- All related materials, including the source code, are available on GitHub.
+([13_K_96_A.mp4](https://github.com/MohamedAziz15/Lip-Sync/blob/main/13_K_96_A.mp4))
 
-## Installation and Setup
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-repo/lip-syncing-pipeline.git
-    cd lip-syncing-pipeline
-    ```
 
-2. Install the required packages:
-    ```sh
-    pip install --no-cache-dir -U openmim 
-    mim install mmengine 
-    mim install "mmcv>=2.0.1" 
-    mim install "mmdet>=3.1.0" 
-    mim install "mmpose>=1.1.0"  
-    ```
 
-## Usage
-1. Set up the environment in Colab and upload the necessary files (models, videos, audios).
-2. Update the configuration files as needed.
-3. Run the inference script:
-    ```sh
-    python -m scripts.inference --inference_config configs/inference/test.yaml
-    ```
-4. For real-time inference:
-    ```sh
-    python -m scripts.realtime_inference --inference_config configs/inference/realtime.yaml --batch_size 4
-    ```
 
-## Generated Video
-The generated video with synchronized lip-syncing using the provided audio is available in the repository.
 
 
 ---
