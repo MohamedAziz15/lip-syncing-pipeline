@@ -86,9 +86,9 @@ Fine-Tuning:
 
 ## Results
 - Generated a high-quality video with excellent synchronization of lip movements with the audio.
-[Inference](https://github.com/MohamedAziz15/Lip-Sync/tree/main/Generated-%20Inference))
+[Inference](https://github.com/MohamedAziz15/Lip-Sync/tree/main/Generated-%20Inference)
  
-([Real-Inference]((https://github.com/MohamedAziz15/Lip-Sync/tree/main/Generated-Real-Inference)))  
+[Real-Inference](https://github.com/MohamedAziz15/Lip-Sync/tree/main/Generated-Real-Inference) 
 
 
 
@@ -99,6 +99,7 @@ Fine-Tuning:
 -  **MuseTalk** :https://github.com/TMElyralab/MuseTalk/tree/main?tab=readme-ov-file
 -  **MuseV**    : https://github.com/TMElyralab/MuseV/tree/main
 - **([Drive](https://drive.google.com/drive/folders/1GyP__si2oQveB7Ehfyjwabph3DUUc47g?usp=sharing))**
+
 For more details, refer to the documentation provided in the repository. If you encounter any issues or have questions, feel free to open an issue or contact the maintainer.
 
 
