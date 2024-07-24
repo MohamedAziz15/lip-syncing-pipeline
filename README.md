@@ -21,6 +21,8 @@ We provide a detailed tutorial about the installation and the basic usage of Mus
 
 
 #### 1. Download weights
+You can copy directory ("/content/drive/MyDrive/Lip-Sync/MuseTalk/musetalk/models") to your drive in the same path to work
+**OR**
 You can download weights manually as follows:
 
 1. Download our trained [weights](https://huggingface.co/TMElyralab/MuseTalk).
