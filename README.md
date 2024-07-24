@@ -98,7 +98,6 @@ Fine-Tuning:
 ### Reference
 -  **MuseTalk** :https://github.com/TMElyralab/MuseTalk/tree/main?tab=readme-ov-file
 -  **MuseV**    : https://github.com/TMElyralab/MuseV/tree/main
-- **([Drive](https://drive.google.com/drive/folders/1GyP__si2oQveB7Ehfyjwabph3DUUc47g?usp=sharing))**
 
 For more details, refer to the documentation provided in the repository. If you encounter any issues or have questions, feel free to open an issue or contact the maintainer.
 
