@@ -79,11 +79,10 @@ Fine-Tuning:
 
 **Fine-Tuning:**
  Instead of fine-tuning the model, adjusted parameters like bbox_shift to control mouth openness, resulting in better synchronization.
- python -m scripts.inference --inference_config configs/inference/test.yaml --bbox_shift -7
 
-'''
+```
 !python -m scripts.inference --inference_config configs/inference/test.yaml --bbox_shift -7
-''' 
+```
 
 ## Results
 - Generated a high-quality video with excellent synchronization of lip movements with the audio.
