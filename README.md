@@ -11,7 +11,7 @@
 1. supports modification of the center point of the face region proposes, which **SIGNIFICANTLY** affects generation results. 
 1. checkpoint available trained on the HDTF dataset.
    
-[MuseTalk-Doc](https://github.com/TMElyralab/MuseTalk))
+[MuseTalk-Doc](https://github.com/TMElyralab/MuseTalk)
 
 ### Getting Started
 We provide a detailed tutorial about the installation and the basic usage of MuseTalk for new users:
@@ -71,13 +71,17 @@ Finally, these weights should be organized in `models` as follows:
   - Adjusting parameters for better results
 - Generated a high-quality video with excellent synchronization of lip movements with the audio.
 
-### Task 3: Evaluation and Fine-Tuning
 **Evaluation:**
-- Compared the generated video with the reference video [13_K.mp4](link-to-video).
-- Verified that the model provided good synchronization and overall video quality.
+Compared the generated video with the reference video [13_K.mp4].
+Verified that the model provided good synchronization and overall video quality.
+Fine-Tuning:
+
 
 **Fine-Tuning:**
-- Instead of fine-tuning the model, adjusted parameters like `bbox_shift` to control mouth openness, resulting in better synchronization.
+ Instead of fine-tuning the model, adjusted parameters like bbox_shift to control mouth openness, resulting in better synchronization.
+'''
+!python -m scripts.inference --inference_config configs/inference/test.yaml --bbox_shift -7
+''' 
 
 ## Results
 - Generated a high-quality video with excellent synchronization of lip movements with the audio.
