@@ -86,11 +86,10 @@ Fine-Tuning:
 
 ## Results
 - Generated a high-quality video with excellent synchronization of lip movements with the audio.
-([13_K_96_E.mp4](https://github.com/MohamedAziz15/Lip-Sync/blob/main/13_K_96_E.mp4))
+[Inference](https://github.com/MohamedAziz15/Lip-Sync/tree/main/Generated-%20Inference))
  
-([13_K_10_S.mp4](https://github.com/MohamedAziz15/Lip-Sync/blob/main/13_K_10_S.mp4))  
+([Real-Inference]((https://github.com/MohamedAziz15/Lip-Sync/tree/main/Generated-Real-Inference)))  
 
-([13_K_96_A.mp4](https://github.com/MohamedAziz15/Lip-Sync/blob/main/13_K_96_A.mp4))
 
 
 ---
