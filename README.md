@@ -2,6 +2,7 @@
 ## MuseTalk
 
 MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting
+
 **Drive** link : https://drive.google.com/drive/folders/1GyP__si2oQveB7Ehfyjwabph3DUUc47g?usp=sharing
 
 
@@ -116,15 +117,6 @@ A detailed report explaining the methodology and models used is included in the 
 ## Generated Video
 The generated video with synchronized lip-syncing using the provided audio is available in the repository.
 
-## Submission
-Submit a zipped folder containing:
-- The detailed report (PDF or Word document).
-- Source code files.
-- Generated video file.
-- README file with instructions on how to run the code.
-
-## Deadline
-The deadline for this assignment is 5 days starting from the day you receive this assignment.
 
 ---
 
